@@ -1,6 +1,6 @@
 # SwiftUI-T9
 
-[Source]()
+[Source](https://designcode.io/swiftui-handbook-safe-area-layout)
 
 <pre>
 <img src="preview/example1.png">
